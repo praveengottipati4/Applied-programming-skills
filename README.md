@@ -13,4 +13,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0142-linked-list-cycle-ii) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
