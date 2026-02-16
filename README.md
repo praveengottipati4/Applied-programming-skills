@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0142-linked-list-cycle-ii](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0217-contains-duplicate) |
+| [0890-find-and-replace-pattern](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0890-find-and-replace-pattern) |
 ## Linked List
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0008-string-to-integer-atoi) |
+| [0890-find-and-replace-pattern](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0890-find-and-replace-pattern) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Counting
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0217-contains-duplicate) |
 | [0867-transpose-matrix](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0867-transpose-matrix) |
+| [0890-find-and-replace-pattern](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0890-find-and-replace-pattern) |
 | [0918-maximum-sum-circular-subarray](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0918-maximum-sum-circular-subarray) |
 | [1314-matrix-block-sum](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/1314-matrix-block-sum) |
 ## Sorting
