@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0142-linked-list-cycle-ii](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0142-linked-list-cycle-ii) |
 ## Design
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0008-string-to-integer-atoi) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0796-rotate-string) |
 | [0890-find-and-replace-pattern](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0890-find-and-replace-pattern) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/1408-string-matching-in-an-array) |
