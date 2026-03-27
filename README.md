@@ -100,4 +100,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/1408-string-matching-in-an-array) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
