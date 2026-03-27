@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0217-contains-duplicate) |
 | [0890-find-and-replace-pattern](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0890-find-and-replace-pattern) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0217-contains-duplicate) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0145-binary-tree-postorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -116,11 +119,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0145-binary-tree-postorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0101-symmetric-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -129,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0145-binary-tree-postorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Stack
 |  |
 | ------- |
