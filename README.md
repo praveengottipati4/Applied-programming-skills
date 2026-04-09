@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0142-linked-list-cycle-ii](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0217-contains-duplicate) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0890-find-and-replace-pattern](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0890-find-and-replace-pattern) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Linked List
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0008-string-to-integer-atoi) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0257-binary-tree-paths) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0796-rotate-string) |
 | [0890-find-and-replace-pattern](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0890-find-and-replace-pattern) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0438-find-all-anagrams-in-a-string) |
 ## String Matching
 |  |
 | ------- |
