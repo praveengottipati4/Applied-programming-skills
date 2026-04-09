@@ -1,4 +1,5 @@
-import java.util.*;
+import java.util.LinkedList;
+import java.util.Queue;
 
 class MyStack {
 
@@ -10,42 +11,32 @@ class MyStack {
         q2 = new LinkedList<>();
     }
 
+    // Push element onto stack
     public void push(int x) {
-        q1.add(x);
+        q2.add(x);
+
+        // move all elements from q1 to q2
+        while (!q1.isEmpty()) {
+            q2.add(q1.remove());
+        }
+
+        // swap q1 and q2
+        Queue<Integer> temp = q1;
+        q1 = q2;
+        q2 = temp;
     }
 
+    // Remove top element
     public int pop() {
-        // move all except last
-        while (q1.size() > 1) {
-            q2.add(q1.poll());
-        }
-
-        int top = q1.poll(); // last element
-
-        // swap queues
-        Queue<Integer> temp = q1;
-        q1 = q2;
-        q2 = temp;
-
-        return top;
+        return q1.remove();
     }
 
+    // Get top element
     public int top() {
-        while (q1.size() > 1) {
-            q2.add(q1.poll());
-        }
-
-        int top = q1.peek();
-        q2.add(q1.poll());
-
-        // swap
-        Queue<Integer> temp = q1;
-        q1 = q2;
-        q2 = temp;
-
-        return top;
+        return q1.peek();
     }
 
+    // Check if empty
     public boolean empty() {
         return q1.isEmpty();
     }
