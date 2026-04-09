@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0933-number-of-recent-calls) |
+| [1603-design-parking-system](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/1603-design-parking-system) |
 ## Queue
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1603-design-parking-system](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/1603-design-parking-system) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Array
 |  |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0867-transpose-matrix) |
+| [1603-design-parking-system](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/1603-design-parking-system) |
 ## Prefix Sum
 |  |
 | ------- |
