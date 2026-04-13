@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0690-employee-importance](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0690-employee-importance) |
 | [0705-design-hashset](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0705-design-hashset) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0142-linked-list-cycle-ii](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0142-linked-list-cycle-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0349-intersection-of-two-arrays) |
 ## Design
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0349-intersection-of-two-arrays) |
 | [0690-employee-importance](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0690-employee-importance) |
 | [0705-design-hashset](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0705-design-hashset) |
 | [0867-transpose-matrix](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0867-transpose-matrix) |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0349-intersection-of-two-arrays) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Matrix
 |  |
@@ -205,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0705-design-hashset) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
