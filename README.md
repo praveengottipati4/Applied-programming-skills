@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0290-word-pattern) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0690-employee-importance](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0690-employee-importance) |
 | [0705-design-hashset](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0705-design-hashset) |
 | [0890-find-and-replace-pattern](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0890-find-and-replace-pattern) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0217-contains-duplicate) |
+| [0690-employee-importance](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0690-employee-importance) |
 | [0705-design-hashset](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0705-design-hashset) |
 | [0867-transpose-matrix](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0867-transpose-matrix) |
 | [0890-find-and-replace-pattern](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0890-find-and-replace-pattern) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0257-binary-tree-paths) |
+| [0690-employee-importance](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0690-employee-importance) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0257-binary-tree-paths) |
+| [0690-employee-importance](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0690-employee-importance) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -158,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0112-path-sum) |
+| [0690-employee-importance](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0690-employee-importance) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
