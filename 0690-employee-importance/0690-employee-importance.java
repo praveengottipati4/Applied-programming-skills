@@ -1,0 +1,27 @@
+import java.util.*;
+
+class Solution {
+    public int getImportance(List<Employee> employees, int id) {
+
+        Map<Integer, Employee> map = new HashMap<>();
+
+        // build map
+        for (Employee e : employees) {
+            map.put(e.id, e);
+        }
+
+        return dfs(id, map);
+    }
+
+    private int dfs(int id, Map<Integer, Employee> map) {
+        Employee emp = map.get(id);
+
+        int total = emp.importance;
+
+        for (int subId : emp.subordinates) {
+            total += dfs(subId, map);
+        }
+
+        return total;
+    }
+}
