@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0705-design-hashset) |
 | [0890-find-and-replace-pattern](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0890-find-and-replace-pattern) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1002-find-common-characters](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/1002-find-common-characters) |
 | [1396-design-underground-system](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/1396-design-underground-system) |
 ## Linked List
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0796-rotate-string) |
 | [0890-find-and-replace-pattern](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0890-find-and-replace-pattern) |
+| [1002-find-common-characters](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/1002-find-common-characters) |
 | [1396-design-underground-system](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/1396-design-underground-system) |
 | [1408-string-matching-in-an-array](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/1408-string-matching-in-an-array) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0867-transpose-matrix) |
 | [0890-find-and-replace-pattern](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0890-find-and-replace-pattern) |
 | [0918-maximum-sum-circular-subarray](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0918-maximum-sum-circular-subarray) |
+| [1002-find-common-characters](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/1002-find-common-characters) |
 | [1314-matrix-block-sum](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/1314-matrix-block-sum) |
 | [1408-string-matching-in-an-array](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/1408-string-matching-in-an-array) |
 | [1472-design-browser-history](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/1472-design-browser-history) |
