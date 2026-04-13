@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0142-linked-list-cycle-ii) |
 | [0705-design-hashset](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0705-design-hashset) |
+| [0707-design-linked-list](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0707-design-linked-list) |
 | [1472-design-browser-history](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/1472-design-browser-history) |
 ## Two Pointers
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0232-implement-queue-using-stacks) |
 | [0705-design-hashset](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0705-design-hashset) |
+| [0707-design-linked-list](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0707-design-linked-list) |
 | [0933-number-of-recent-calls](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0933-number-of-recent-calls) |
 | [1396-design-underground-system](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/1472-design-browser-history) |
