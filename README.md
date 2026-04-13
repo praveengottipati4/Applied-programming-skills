@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0290-word-pattern) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0008-string-to-integer-atoi) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0049-group-anagrams) |
 | [0257-binary-tree-paths](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0290-word-pattern) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0217-contains-duplicate) |
 | [0690-employee-importance](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0690-employee-importance) |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0217-contains-duplicate) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/praveengottipati4/Applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Matrix
